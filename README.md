@@ -1,2 +1,5 @@
-# barebones
-bare-bones yet powerful state management tool only for React.js
+# bare-bones
+
+```sh
+yarn add bare-bones
+```
